@@ -1,6 +1,15 @@
 # Watch Youtube video of Grant Jensen's cryo-EM course  
-&nbsp; &nbsp; &nbsp; &nbsp; Dr. Grant Jensen from Caltech gave this excellent series course of cryo-EM, starting from its principles to sample preparation, to data processing. It is not too mathy, but it still gives a good illustration of the theoretical principles. Electric engineering courses like *__Signals and Systems__*, physics courses like *__Optics__*, and machine learning basis would help with the understanding of mechanical and processing details.  
-&nbsp; &nbsp; &nbsp; &nbsp; Videos can be found in this link: [https://jensenlab.caltech.edu/courses/] from a variety of sources (Coursera, Youtube etc).
+&nbsp; &nbsp; &nbsp; &nbsp; **Dr. Grant Jensen** from Caltech gave this excellent series course of cryo-EM, starting from its principles to sample preparation, to data processing. It is not too mathy, but it still gives a good illustration of the theoretical principles. Electric engineering courses like *__Signals and Systems__*, physics courses like *__Optics__*, and machine learning basis would help with the understanding of mechanical and processing details.  
+&nbsp; &nbsp; &nbsp; &nbsp; Videos can be found in this link: [https://jensenlab.caltech.edu/courses/] from a variety of sources (Coursera, Youtube etc). Slides can also be downloaded from this website, though they are not of high quality, some even made from screen snapshots of the videos, but that still offers convience for taking notes. The video's speed is very friendly, so I personally encourage you to accelerate it to 1.5 to 2 times.
+
+&nbsp; &nbsp;  *__Course overview__*:  
+- Part 1: Basic anatomy of EM (8 modules, 2hr)  
+- Part 2: Fourier tranforms and reciprocal space (6 modules, 2hr)  
+- Part 3: Image formation (6 modules, 3 hr)  
+- Part 4: Fundamental challenges in biological EM (5 modules, 1 hr)  
+- Part 5: Tomography (5 modules, 2 hr)  
+- Part 6: Single-particle analysis (6 modules, 3 hr)  
+- Part 7: 2D crystallography (4 modules, 1 hr)  
 
 # Use Relion to process the micrograph data  
 
