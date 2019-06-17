@@ -1,5 +1,6 @@
-# Watch Youtube video of Grant Jansen's cryo-EM course  
-Dr. Grant Jansen from Caltech gave this excellent series course of cryo-EM, starting from its principles to sample preparation, to data processing. It is not too mathy, but it still gives a good illustration of the theoretical principles. Electric engineering courses like *Signals and Systems*, physics courses like *Optics*, and machine learning basis would help with the understanding of mechanical and processing details. 
+# Watch Youtube video of Grant Jensen's cryo-EM course  
+&nbsp; &nbsp; &nbsp; &nbsp; Dr. Grant Jensen from Caltech gave this excellent series course of cryo-EM, starting from its principles to sample preparation, to data processing. It is not too mathy, but it still gives a good illustration of the theoretical principles. Electric engineering courses like *__Signals and Systems__*, physics courses like *__Optics__*, and machine learning basis would help with the understanding of mechanical and processing details.  
+&nbsp; &nbsp; &nbsp; &nbsp; Videos can be found in this link: [https://jensenlab.caltech.edu/courses/] from a variety of sources (Coursera, Youtube etc).
 
 # Use Relion to process the micrograph data  
 
