@@ -25,3 +25,8 @@ When first staring at a micrograph during manual picking process, you might have
 
 - **What are good particle classes?**  
 I give the following example of good and bad particles. They can impact the 'Initial model' result. My first attempt ended up with a bolb with no features. The initial model does not need to be perfect, but it should have some features. 
+
+### Further links  
+Run Relion on cluster: https://hpc.nih.gov/apps/RELION/index.html
+
+
